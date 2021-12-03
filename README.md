@@ -36,7 +36,7 @@
 ```yml
 - cron: '0 0 * * *'
 ```
-
+ 
 > 语法与 Linux 操作系统的 crontab 计划任务相同，具体可自行搜索 “[`linux crontab`](https://www.man7.org/linux/man-pages/man5/crontab.5.html)”。
 
 - 本项目参考了部分“签到”开源项目
