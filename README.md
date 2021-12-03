@@ -1,5 +1,5 @@
 ## 自动签到
-使用 GitHub Actions 自动签到。
+使用 GitHub Actions 自动签到。1
 
 ### 支持签到平台
 - 什么值得买: https://smzdm.com
